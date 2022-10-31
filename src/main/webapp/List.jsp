@@ -23,6 +23,7 @@
 	int totalCount=dao.selectCount(map);
 	List<BoardDTO> boardLists=dao.selectList(map);
 	dao.close();
+	//수정해보기 수정수정
 	
 
 %>
